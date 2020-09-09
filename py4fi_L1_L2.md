@@ -5,10 +5,12 @@
 ### Tools
 Anaconda, IPython, Spyder, Jupyter notebook...
 
-### Versions and interpreters
+### Versions, interpreters, documentation
 
-v2.7 and v3.7
+v3.8
 cpython, jython...
+[python.org](https://www.python.org/)
+Wikipedia...
 
 ### Zen of Python
 
