@@ -26,6 +26,7 @@ to be planned
 
 ## 2020-2021
 
-* participation
-* presentation (3 people)
-* Exam
+Evaluation (20 points)
+* participation (3 points)
+* presentation (3 people) (5 points) (from 3rd session, 20 minutes presentation 10 minutes Q&A)
+* Exam (12 points)
