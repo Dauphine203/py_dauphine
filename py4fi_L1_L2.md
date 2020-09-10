@@ -229,11 +229,10 @@ map(lambda x: x**2, range(4))
 
 map(len, ["Lisa", "Rachid", "Franck"])
 
+from functools import reduce
+
 sum = reduce(lambda a,x: a+x, range(4))
 concat = reduce(lambda a,x: a+x, 'hello')
-
-reduce(lambda a,x: a+2*x, '1234')
-reduce(lambda a,x: 2*a+x, '1234')
 
 filter(lambda x: not x %2, range(10)) shorter: range(10)[::2]
 
