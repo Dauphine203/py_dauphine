@@ -81,6 +81,9 @@ id(), is
 
 ### Mutable vs immutable
 
+int, string, float, bool, tuple are immutable
+list, set ... are mutable
+
 ## Control Structures
 
 ```python
