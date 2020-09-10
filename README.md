@@ -23,6 +23,9 @@ Expected by 6th December
 ### Exam
 to be planned
 
-### Try out collaborative tools
-* course #3: https://codeboard.io/projects/134893
-* https://codeshare.io/
+
+## 2020-2021
+
+* participation
+* presentation (3 people)
+* Exam
