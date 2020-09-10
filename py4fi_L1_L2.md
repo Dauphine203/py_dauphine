@@ -29,9 +29,7 @@ price = 1435.9
 name = 'Hello'
 is_ok = True
 
-1 == True
-0 == True
-a is None
+a = None
 
 t = (1, 2, 3)
 t2 = (1, 235.45, 'hello', True)
