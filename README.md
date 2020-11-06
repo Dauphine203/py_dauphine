@@ -27,6 +27,18 @@ to be planned
 ## 2020-2021
 
 Evaluation (20 points)
-* participation (3 points)
-* presentation (3 people) (5 points) (from 3rd session, 20 minutes presentation 10 minutes Q&A)
-* Exam (12 points)
+* participation (2 points)
+* first assignment (3 people) (4 points) (from 3rd session, 20 minutes presentation 10 minutes Q&A)
+* second assignment (3 people I will provide the list soon)(6 points)
+* Exam (8 points)
+
+### second assignment
+* What to do:
+develop a service based on Bokeh (user interface), with some calculations (options pricing, risk, whatever you want in finance) based on Dask or Cupy or Cudf
+Pytest are mandatory
+Will onboard Flake8
+
+An article on https://medium.com/ is a bonus (e.g.: https://towardsdatascience.com/speed-cubing-for-machine-learning-a5c6775fff0b)
+outcome:
+simple package to install or a Google colab Notebook and a readme file
+Expected by beginning of January 2021
